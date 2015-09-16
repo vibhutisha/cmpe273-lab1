@@ -1,0 +1,10 @@
+Defer//
+Defer Schedules a function call to be run after the function completes.
+
+// Panic
+Panic is used to handle run time erros
+
+//Recover
+We can handle run time panic using recover function.
+recover stops the panic and returns the value that was
+passed to the call to panic.
